@@ -3,7 +3,7 @@
 ### Projeto de calculadora desenvolvido durante a série 'Start na carreira de Programação'
 
 Onde durante 3 aulas foram apresentados os fundamentos de HTML, CSS e JavaScript
-
+https://carlosvcerqueira.github.io/calculadora-de-gorgeta.io/
 ---
 Aula 01
 Criando o "esqueleto" do nosso projeto com HTML5 e conhecendo seus principais elementos.
